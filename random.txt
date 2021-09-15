@@ -1,2 +1,3 @@
 this is a random text file for testing purpose
 Second line for test
+Third line for test
